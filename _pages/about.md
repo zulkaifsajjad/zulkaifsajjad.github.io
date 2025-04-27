@@ -12,8 +12,8 @@ Hi, I am final year student of UET Taxila. I specialize in developing cutting-ed
 
 
 ## Research Interests
-- Bayesian deep learning
-- Bayesian nonparametric models
+- Computer Vision
+- Deep learning
 - Generative models
 - Meta learning
 
