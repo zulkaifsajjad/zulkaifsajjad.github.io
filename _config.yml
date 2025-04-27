@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zulkaif Sajjad"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zulkaif Sajjad"
 description              : &description "Student at University of Engineering and Technology (UET), Taxila"
