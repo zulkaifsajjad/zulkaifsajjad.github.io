@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "Zulkaif Sajjad",
+    "email": "21-EE-36@students.uettaxila.edu.pk",
+    "phone": "",
+    "website": "https://zulkaifsajjad.github.io",
+    "summary": "Researcher & Student at University of Engineering and Technology (UET), Taxila. Specializing in Medical Image Analysis, Surgical AI, and Explainable AI.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Islamabad",
+      "countryCode": "PK",
+      "region": "Punjab"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Zulkaif Sajjad",
+        "url": "https://scholar.google.com/citations?user=AE9hzbgAAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Zulkaif-Sajjad",
+        "url": "https://www.researchgate.net/profile/Zulkaif-Sajjad"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0003-9468-449X",
+        "url": "https://orcid.org/0009-0003-9468-449X"
+      },
+      {
+        "network": "GitHub",
+        "username": "zulkaifsajjad",
+        "url": "https://github.com/zulkaifsajjad"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "University of Engineering and Technology (UET), Taxila",
+      "area": "B.Sc. in Electrical Engineering",
+      "studyType": "Undergraduate",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "level": "",
+      "keywords": [
+        "Medical Image Analysis",
+        "Surgical AI",
+        "Explainable AI (XAI)",
+        "Vision Transformers & DINO",
+        "Deepfake Detection",
+        "Computer Vision",
+        "Deep Learning"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "U-DFA: A Unified DINOv2-Unet with Dual Fusion Attention for Multi-Dataset Medical Segmentation",
+      "publisher": "International Workshop on Machine Learning in Medical Imaging (MLMI / MICCAI 2025), Springer Nature",
+      "releaseDate": "2025-09-23",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-032-09513-8_19",
+      "summary": "U-DFA integrates a novel Local-Global Fusion Adapter (LGFA) to effectively combine spatial CNN features with foundation model vision transformers for multi-dataset medical image segmentation."
+    },
+    {
+      "name": "A novel feature-agnostic approach for glaucoma detection in fundus images",
+      "publisher": "Journal of the Pakistan Medical Association (JPMA)",
+      "releaseDate": "2026-09-01",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AE9hzbgAAAAJ&citation_for_view=AE9hzbgAAAAJ:UeHWp8X0CEIC",
+      "summary": "A fully automated, feature-agnostic deep learning approach for early glaucoma detection directly from retinal fundus images."
+    },
+    {
+      "name": "OAVid: A Benchmark Dataset for Semantic Segmentation of Oblique Aerial UAV Images",
+      "publisher": "2026 5th International Conference on Computing, Mathematics and Engineering Technologies (iCoMET), IEEE",
+      "releaseDate": "2026-05-22",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11591777/",
+      "summary": "A comprehensive benchmark dataset for semantic segmentation of oblique aerial imagery acquired by low-altitude UAVs."
+    },
+    {
+      "name": "DINOv3-UNet: Robust Local and Global Feature Fusion for Dermoscopic Segmentation",
+      "publisher": "2025 5th International Conference on Digital Futures and Transformative Technologies (ICoDT2), IEEE",
+      "releaseDate": "2025-12-17",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11360710/",
+      "summary": "A unified DINOv3-UNet encoder-decoder architecture incorporating Channel Attention Adapters for dermoscopic lesion segmentation."
+    },
+    {
+      "name": "LGSFNet: A Local–Global Semantic Fusion Network for Robust Cross-Domain Deepfake Detection",
+      "publisher": "BMVC Workshops (MAAAI 2025), British Machine Vision Association",
+      "releaseDate": "2025-11-25",
+      "website": "https://bmva-archive.org.uk/bmvc/2025/assets/workshops/MAAAI/Paper_11/paper.pdf",
+      "summary": "Dual-path architecture combining Spatial Resolution Adapters and Local Semantic Fusion Adapters with DINOv3 for robust cross-domain facial deepfake detection."
+    },
+    {
+      "name": "Deepfake Urdu Audio Detection using Spectral Features for Automatic Speaker Verification",
+      "publisher": "2024 26th International Multi-Topic Conference (INMIC), IEEE",
+      "releaseDate": "2024-12-30",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11004326/",
+      "summary": "Deep learning-based deepfake audio detection method for low-resource language Urdu using spectral features."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
